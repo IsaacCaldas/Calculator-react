@@ -1,0 +1,16 @@
+* {
+
+  margin: 0;
+
+}
+  
+.calculator {
+
+  width: 235px;
+  height: 320px;
+  border-radius: 5px;
+  overflow: hidden;
+
+  background-color: #ccc;
+
+}
