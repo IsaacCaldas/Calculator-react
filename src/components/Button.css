@@ -1,0 +1,26 @@
+:root {
+
+  --bg-button: #ddd;
+  --bg-button_hover: #ccc;
+  --border-button: solid 1px #888;
+  
+}
+
+.button-calc {
+
+  font-size: 1.4em;
+
+  background-color: var(--bg-button);
+  border: none;
+  border-right: var(--border-button);
+
+  border-bottom: var(--border-button);
+
+  outline: none;
+  transition: 0.1s linear;
+}
+
+.button-calc:hover {
+
+  background-color: var(--bg-button_hover);
+}
