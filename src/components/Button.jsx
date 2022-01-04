@@ -4,7 +4,7 @@ import React from 'react';
 
 export default props => {
   
-  let classbtn = 'button ';
+  let classbtn = 'button-calc ';
   classbtn += props.operation ? 'operation' : '';
   classbtn += props.double ? 'double' : '';
   classbtn += props.triple ? 'triple' : '';

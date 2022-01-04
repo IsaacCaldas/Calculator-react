@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'RobotoMono';
-  src: url('./fonts/RobotoMono-Bold.ttf')
+  src: url('./fonts/RobotoMono-Light.ttf')
 }
 
 * {
 
   font-family: 'RobotoMono', Helvetica, Arial, sans-serif;  
-
+  
 }
 
 body{
